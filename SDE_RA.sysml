@@ -1,5 +1,5 @@
 package SDE_RA {
-	/* Seamless Digital Engineering Reference Architecture */
+	/* The Seamless Digital Engineering Reference Architecture (or SDE_RA, for short) is a category reference architecture for digital engineering environments. It is intended to be tailored to an organization's specific context and needs, providing a useful starting point for an organization's migration to digital engineering. It provides SysML v2 language extensions, definitions and usages that may be used in digital engineering practices, including the systems engineering and other lifecycle processes for designing and deploying systems, demonstrated here in the design of an organization's own digital (IT) environment. */
 	
 	public import SDE_Profile::**;
 	public import DE_Stakeholders::**;
